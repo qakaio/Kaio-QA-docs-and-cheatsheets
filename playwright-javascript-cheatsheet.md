@@ -1,4 +1,4 @@
-# Playwright JavaScript Cheat Sheet
+# Playwright JavaScript for Web Cheat Sheet
 
 A quick reference for the most important Playwright commands in JavaScript, with real usage examples.
 

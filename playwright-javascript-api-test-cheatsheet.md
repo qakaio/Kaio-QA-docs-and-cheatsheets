@@ -1,3 +1,8 @@
+# Playwright JavaScript API Testing Cheat Sheet
+
+A quick reference for the most important Playwright commands in JavaScript for API testing, with real usage examples.
+
+```javascript
 import { test, expect, request } from '@playwright/test';
 
 test('API test example', async ({ request }) => {

@@ -6,3 +6,5 @@ My personal collection of documents and cheat sheets for daily use as a professi
 [Playwright + Javascript - API Testing - Cheat sheet](https://github.com/qakaio/Kaio-QA-docs-and-cheatsheets/blob/main/playwright-javascript-api-test-cheatsheet.md)
 
 [Git - Cheatsheet](https://github.com/qakaio/Kaio-QA-docs-and-cheatsheets/blob/main/git-cheatsheet.md)
+
+[Appium + WebdriverIO (Javascript) - Cheatsheet](https://github.com/qakaio/Kaio-QA-docs-and-cheatsheets/blob/main/appium-webdriverio-javascript-cheatsheet.md)

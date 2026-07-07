@@ -1,5 +1,9 @@
 # Kaio QA — Docs & Cheatsheets
 
+![Docs](https://img.shields.io/badge/docs-cheatsheets-blue)
+
+# Kaio QA — Docs & Cheatsheets
+
 Personal collection of documents and cheat sheets for daily use as a professional QA engineer. Created and maintained by [Kaio Garcia](https://github.com/qakaio) — Staff QA Engineer & Test Automation Architect.
 
 ---

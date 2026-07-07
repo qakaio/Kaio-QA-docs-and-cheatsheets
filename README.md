@@ -1,25 +1,24 @@
 # Kaio QA — Docs & Cheatsheets
 
 ![Docs](https://img.shields.io/badge/docs-cheatsheets-blue)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-# Kaio QA — Docs & Cheatsheets
-
-Personal collection of documents and cheat sheets for daily use as a professional QA engineer. Created and maintained by [Kaio Garcia](https://github.com/qakaio) — Staff QA Engineer & Test Automation Architect.
+Personal collection of documents and cheat sheets for daily use as a professional QA engineer. Created and maintained by [Kaio Garcia](https://github.com/qakaio) — Senior QA Engineer.
 
 ---
 
-## 📚 Available Cheatsheets
+## Available Cheatsheets
 
 | Cheatsheet | Description | Link |
 |------------|-------------|------|
-| **Git** | Daily Git commands, workflows, aliases, recovery | [📄 git-cheatsheet.md](git-cheatsheet.md) |
-| **Playwright + JavaScript — Web** | Locators, actions, assertions, patterns, CI/CD | [📄 playwright-javascript-cheatsheet.md](playwright-javascript-cheatsheet.md) |
-| **Playwright + JavaScript — API Testing** | API request methods, auth, validation, mocking | [📄 playwright-javascript-api-test-cheatsheet.md](playwright-javascript-api-test-cheatsheet.md) |
-| **Appium + WebdriverIO (JavaScript)** | Mobile setup, capabilities, gestures, CI/CD | [📄 appium-webdriverio-javascript-cheatsheet.md](appium-webdriverio-javascript-cheatsheet.md) |
+| **Git** | Daily Git commands, workflows, aliases, recovery | [git-cheatsheet.md](git-cheatsheet.md) |
+| **Playwright + JavaScript — Web** | Locators, actions, assertions, patterns, CI/CD | [playwright-javascript-cheatsheet.md](playwright-javascript-cheatsheet.md) |
+| **Playwright + JavaScript — API Testing** | API request methods, auth, validation, mocking | [playwright-javascript-api-test-cheatsheet.md](playwright-javascript-api-test-cheatsheet.md) |
+| **Appium + WebdriverIO (JavaScript)** | Mobile setup, capabilities, gestures, CI/CD | [appium-webdriverio-javascript-cheatsheet.md](appium-webdriverio-javascript-cheatsheet.md) |
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 These cheatsheets are my **personal reference** for daily QA engineering work. They're optimized for:
 - **Quick lookup** during test development
@@ -29,7 +28,7 @@ These cheatsheets are my **personal reference** for daily QA engineering work. T
 
 ---
 
-## 🛠 Tech Stack Covered
+## Tech Stack Covered
 
 | Category | Tools |
 |----------|-------|
@@ -44,7 +43,7 @@ These cheatsheets are my **personal reference** for daily QA engineering work. T
 
 ---
 
-## 📖 How to Use
+## How to Use
 
 1. **Bookmark** the cheatsheet you need
 2. **Search** (Ctrl/Cmd+F) for the command/pattern
@@ -53,7 +52,7 @@ These cheatsheets are my **personal reference** for daily QA engineering work. T
 
 ---
 
-## 🔄 Keeping Updated
+## Keeping Updated
 
 These are living documents. I update them when:
 - New framework versions introduce better patterns
@@ -65,7 +64,7 @@ Last updated: **July 2025**
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 These are personal notes, but if you spot an error or have a valuable addition:
 1. Fork the repo
@@ -74,21 +73,20 @@ These are personal notes, but if you spot an error or have a valuable addition:
 
 ---
 
-## 📄 License
+## License
 
 MIT License — Free to use, adapt, and share.
 
 ---
 
-## 👤 Author
+## Author
 
-**Kaio Garcia** — Staff QA Engineer & Test Automation Architect  
--  
+**Kaio Garcia** — Senior QA Engineer  
 🔗 [GitHub](https://github.com/qakaio) • [LinkedIn](https://linkedin.com/in/kaioqa) • [Portfolio](https://qakaio.github.io)
 
 ---
 
-## 📋 Quick Reference Index
+## Quick Reference Index
 
 ### Git Cheatsheet
 - [ ] Daily workflow (add, commit, push, pull)

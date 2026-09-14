@@ -1,0 +1,8 @@
+{
+  "name": "kaio-qa-docs-and-cheatsheets",
+  "version": "1.0.0",
+  "description": "My personal collection of documents and cheat sheets for daily use as a professional QA engineer",
+  "scripts": {
+    "test": "echo 'No tests configured, docs repo'"
+  }
+}
